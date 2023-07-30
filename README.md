@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/OleksandrOsyka/news-homepage-main)
+- Live Site URL: [Live](https://oleksandrosyka.github.io/news-homepage-main/)
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [@OleksandrOsyka](https://github.com/OleksandrOsyka)
+- Frontend Mentor - [@OsykaOleksandr](https://www.frontendmentor.io/profile/OsykaOleksandr)
 
 
