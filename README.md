@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/screenshots/_home_oleksandr_Desktop_news-homepage-main_index.html.png)
+![](./assets/screenshots/_home_oleksandr_Desktop_news-homepage-main0_index.html.png)
 
 ### Links
 
